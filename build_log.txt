@@ -1,0 +1,22 @@
+[Licensing::Module] Trying to connect to existing licensing client channel...
+Built from '6000.5/staging' branch; Version is '6000.5.7f1 (017862109af0) revision 96354'; Using compiler version '194234433'; Build Type 'Release'
+OS: 'Windows 11  (10.0.26200) CoreSingleLanguage' Language: 'en' Physical Memory: 16087 MB
+[Licensing::IpcConnector] Successfully connected to: "LicenseClient-Piyush" at "2026-09-01T15:23:30.1781498Z"
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1
+System  architecture: x64
+Process architecture: x64
+Date: 2026-09-01T15:23:30Z
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\6000.5.7f1\Editor\Unity.exe
+-projectPath
+C:\Users\pawan\Documents\house\tamaaz2
+-executeMethod
+HousePlanned.HousePlannedBuilder.BuildPlannedHouse
+-quit
+-batchmode
+-logFile
+C:\Users\pawan\Documents\house\tamaaz2\build_log.txt
+Successfully changed project path to: C:\Users\pawan\Documents\house\tamaaz2
+C:/Users/pawan/Documents/house/tamaaz2
+Exiting without the bug reporter. Application will terminate with return code 1
